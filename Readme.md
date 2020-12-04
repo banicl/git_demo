@@ -3,6 +3,8 @@
 # h1 header
 ## h2 header
 
+:smiley: :heart:
+
 Običan tekst.
 Ovo je *italic*.
 Ovo je **boldano**.
