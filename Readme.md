@@ -1,5 +1,5 @@
 # **Markdown vježba**
-Ovo je dokument :memo: koji prezentira moj :code: kod :smiley: 
+Ovo je dokument :memo: koji prezentira moj :C++: kod :smiley: 
 
 ## **Program**
 ```cpp
@@ -23,10 +23,10 @@ int main() {
 - Pokrenite
 
 ### **TODO**
+Todo lista za nadopunu programa:
 - [x] Ispisati poruku za unos broja
 - [x] Omogućiti unos broja
 - [ ] Provjeriti je li broj troznamenkast
 - [ ] Ispisati sumu znamenki broja 
 
 [Povratak na vrh](#Markdown-vježba)
-
